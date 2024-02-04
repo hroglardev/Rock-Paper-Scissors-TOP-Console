@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-TOP
+# Rock-Paper-Scissors-TOP-Console
 
 First JS project for TOP. Console game RPS.
 
@@ -72,6 +72,13 @@ Finally we call the previous function so the game starts.
 <img src="./docs-images/Console.JPG" alt="How to check the console">
 <a href="https://hroglardev.github.io/Rock-Paper-Scissors-TOP-Console/" target="_blank">Click here</a> and open the developer tools by pressing f12 (if you're using chrome). Then go to the console tab of the tools as shown in the image.
 
-# If you'd like to see the GUI version of the game (non console)
+# Want to track my progress?
 
-<a href="https://hroglardev.github.io/Rock-Paper-Scissors-TOP/" target="_blank">Click here for app</a>or<a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">here for the repository</a>
+Checkout my other projects in order to see my evolution:
+
+<ol>
+  <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
+  <li><a href="https://github.com/hroglardev/Odin-landing-page" target="_blank">Landing Page</a></li>
+  <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP-Console" target="_blank">You are here</a></li>
+  <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">Rock, Paper, Scissors</a></li>
+</ol>
