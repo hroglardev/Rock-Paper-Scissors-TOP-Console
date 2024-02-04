@@ -70,8 +70,8 @@ Finally we call the previous function so the game starts.
 # Want to see it in action?
 
 <img src="./docs-images/Console.JPG" alt="How to check the console">
-<a href="https://hroglardev.github.io/Rock-Paper-Scissors-TOP/" target="_blank">Click here</a> and open the developer tools by pressing f12 (if you're using chrome). Then go to the console tab of the tools as shown in the image.
+<a href="https://hroglardev.github.io/Rock-Paper-Scissors-TOP-Console/" target="_blank">Click here</a> and open the developer tools by pressing f12 (if you're using chrome). Then go to the console tab of the tools as shown in the image.
 
 # If you'd like to see the GUI version of the game (non console)
 
-<a href="https://hroglardev.github.io/Rock-Paper-Scissors-TOP/" target="_blank">Click here</a>
+<a href="https://hroglardev.github.io/Rock-Paper-Scissors-TOP/" target="_blank">Click here for app</a>or<a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">here for the repository</a>
