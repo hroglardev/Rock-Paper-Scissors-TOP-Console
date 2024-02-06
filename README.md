@@ -82,4 +82,5 @@ Checkout my other projects in order to see my evolution:
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP-Console" target="_blank">You are here</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">Rock, Paper, Scissors</a></li>
   <li><a href="https://github.com/hroglardev/Etch-a-Sketch" target="_blank">Etch a Sketch</a></li>
+  <li><a href="https://github.com/hroglardev/Calculator" target="_blank">Calculator</a></li>
 </ol>
