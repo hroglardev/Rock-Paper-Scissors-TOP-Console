@@ -21,6 +21,11 @@ Below you can read what concepts I implemented during this project.
   <li>Loops to avoid repeating code and handling corner cases</li>
 </ul>
 
+# Want to see it in action?
+
+<img src="./docs-images/Console.JPG" alt="How to check the console">
+<a href="https://hroglardev.github.io/Rock-Paper-Scissors-TOP-Console/" target="_blank">Click here</a> and open the developer tools by pressing f12 (if you're using chrome). Then go to the console tab of the tools as shown in the image.
+
 # Explanation of the code
 
 The code initialises by using an event telling the DOM to wait for the scripts to load before allowing interaction from the user, after which we find an arrow function.
@@ -67,21 +72,18 @@ Once the loop finishes, the function checks the state of the variables. If the u
 
 Finally we call the previous function so the game starts.
 
-# Want to see it in action?
-
-<img src="./docs-images/Console.JPG" alt="How to check the console">
-<a href="https://hroglardev.github.io/Rock-Paper-Scissors-TOP-Console/" target="_blank">Click here</a> and open the developer tools by pressing f12 (if you're using chrome). Then go to the console tab of the tools as shown in the image.
-
 # Want to track my progress?
 
 Checkout my other projects in order to see my evolution:
 
 <ol>
-  <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
+ <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
   <li><a href="https://github.com/hroglardev/Odin-landing-page" target="_blank">Landing Page</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP-Console" target="_blank">You are here</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">Rock, Paper, Scissors</a></li>
   <li><a href="https://github.com/hroglardev/Etch-a-Sketch" target="_blank">Etch a Sketch</a></li>
   <li><a href="https://github.com/hroglardev/Calculator" target="_blank">Calculator</a></li>
   <li><a href="https://github.com/hroglardev/Sign-up-form-TOP" target="_blank">Sign up form</a></li>
+  <li><a href="https://github.com/hroglardev/Dashboard" target="_blank">Dashboard</a></li>
+  <li><a href="https://github.com/hroglardev/Library" target="_blank">Library</a></li>
 </ol>
