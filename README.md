@@ -77,7 +77,7 @@ Finally we call the previous function so the game starts.
 Checkout my other projects in order to see my evolution:
 
 <ol>
- <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
+  <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
   <li><a href="https://github.com/hroglardev/Odin-landing-page" target="_blank">Landing Page</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP-Console" target="_blank">You are here</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">Rock, Paper, Scissors</a></li>
